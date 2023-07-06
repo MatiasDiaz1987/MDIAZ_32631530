@@ -1,0 +1,22 @@
+{
+    "OrderID":15487,
+    "Adress":"Buenos Aires 987",
+    "Status":"En Preparacion",
+    "Articles":[
+        {
+    "Name":"Notebook",
+    "Quantity":5,
+    "Dangerous":false,
+    },
+        {
+    "Name":"Tablet",
+    "Quantity":3,
+    "Dangerous":false,
+    },
+        {
+    "Name":"Baterias",
+    "Quantity":7,
+    "Dangerous":true,
+    }
+    ]
+    }
